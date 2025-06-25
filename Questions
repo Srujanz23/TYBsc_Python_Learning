@@ -1,0 +1,26 @@
+1. Check if a number is Even or Odd.
+2. Find the greatest of three numbers using nested if-else statements.
+3. Find the sum of digits of a number.
+4. Generate the Fibonacci series up to a given number using a loop.
+5. Check whether a given number is a palindrome using loops.
+6. Write a program to print a different pattern using nested loops.
+7. Find the factorial of a number using a loop.
+8. Print all Armstrong numbers in a given range.
+9. Print all Prime numbers in a given range.
+10. Perform basic operations on a list (creation, accessing elements, modifying, slicing, and applying list methods).
+11. Perform tuple operations (creation, accessing, traversing, slicing, and unpacking).
+12. Perform dictionary operations (insertion, deletion, updating, retrieving values using keys, and using dictionary methods).
+13. Perform set operations (creating, adding elements, removing elements, membership testing, and applying set methods).
+14. Perform string operations (accessing, modifying, slicing, concatenation, and using string methods).
+15. Write a function to count the frequency of elements in a given list using a dictionary.
+16. Write a recursive function to find the factorial of a number.
+17. Write a program to count the occurrences of each word in a given string using a dictionary.
+18. Sort a dictionary by keys and values in ascending and descending order.
+19. Write a program to handle multiple exceptions (e.g., IndexError, KeyError, TypeError) while accessing a list and dictionary.
+20. Demonstrate the use of try, except, else, and finally blocks in a program that opens a file.
+21. Import and use built-in modules (math, random, time) to perform various operations.
+22. Develop a package containing multiple modules for scientific calculations (e.g., physics formulas like motion, energy, etc.).
+23. Create a class Student with attributes name, age, and marks, and implement a method to display student details.
+24. Demonstrate polymorphism using method overriding and operator overloading.
+25. Develop a BankAccount class with deposit, withdrawal, balance inquiry.
+26. Implement a Student class with methods to calculate and display percentage from marks.
